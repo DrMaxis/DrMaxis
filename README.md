@@ -24,9 +24,7 @@ JSON         1 hr 26 mins    ▓░░░░░░░░░░░░░░░░
 ![](https://raw.githubusercontent.com/DrMaxis/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/DrMaxis/github-stats-transparent/output/generated/languages.svg)
 
-**Info:**  
-
-
+ 
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@alchemist?theme=rule34"></a>
 
 <br>
