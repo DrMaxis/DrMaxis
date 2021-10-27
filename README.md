@@ -21,11 +21,14 @@ JSON         1 hr 26 mins    ▓░░░░░░░░░░░░░░░░
 
 [![Alchemist's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrMaxis&show_icons=true&theme=outrun&count_private=true)](https://github.com/DrMaxis/github-readme-stats)
 
+![](https://raw.githubusercontent.com/DrMaxis/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/DrMaxis/github-stats-transparent/output/generated/languages.svg)
 
 **Info:**  
 
 
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@alchemist?theme=rule34"></a>
+
 <br>
 
 <a href="linkedin.com/in/nathan-antwi-0a89ba107/">
@@ -33,6 +36,6 @@ JSON         1 hr 26 mins    ▓░░░░░░░░░░░░░░░░
 </a>
 
 <a href="mailto:nathankantwi@gmail.com">
-  <img align="left" alt="Alchemist's Email" width="22px" src="https://img.shields.io/badge/Email-nathankantwi%40gmail.com-blue" />
+  <img align="left" alt="Alchemist's Email" src="https://img.shields.io/badge/Email-nathankantwi%40gmail.com-blue" />
 </a>
 
