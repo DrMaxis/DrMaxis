@@ -14,7 +14,13 @@
 [![Alchemist's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrMaxis&show_icons=true&theme=outrun&count_private=true)](https://github.com/DrMaxis/github-readme-stats)
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-
+```text
+JavaScript   32 hrs 35 mins  █████████████████▓░░░░░░░   70.51 % 
+PHP          5 hrs 55 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Solidity     2 hrs 19 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+JSX          2 hrs 14 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+JSON         1 hr 26 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+```
 <!--END_SECTION:waka-->
 
 
