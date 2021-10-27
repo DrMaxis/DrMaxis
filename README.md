@@ -29,7 +29,7 @@ JSON         1 hr 26 mins    ▓░░░░░░░░░░░░░░░░
 
 <br>
 
-<a href="linkedin.com/in/nathan-antwi-0a89ba107/">
+<a href="https://linkedin.com/in/nathan-antwi-0a89ba107/">
   <img align="left" alt="Alchemist's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
