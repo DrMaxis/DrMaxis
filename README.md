@@ -5,10 +5,10 @@
 > I turn code into 💎💎💎
 
 
-
+![](https://visitor-badge.glitch.me/badge?page_id=DrMaxis.DrMaxis)
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrMaxis&layout=compact&theme=outrun)](https://github.com/DrMaxis/github-readme-stats)
+
 
 
 [![Alchemist's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrMaxis&show_icons=true&theme=outrun&count_private=true)](https://github.com/DrMaxis/github-readme-stats)
@@ -17,7 +17,7 @@
 
 <!--END_SECTION:waka-->
 
-![](https://visitor-badge.glitch.me/badge?page_id=DrMaxis.DrMaxis)
+
 
 
 
