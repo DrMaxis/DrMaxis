@@ -25,8 +25,8 @@ JSON             1 hr 15 mins    ▓░░░░░░░░░░░░░░�
 ![](https://raw.githubusercontent.com/DrMaxis/github-stats-transparent/output/generated/languages.svg)
 
  
-<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@alchemist?theme=rule34"></a>
-
+<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:maxis-the-alchemist?theme=rule34"></a>
+<!-- https://count.getloli.com/get/@alchemist?theme=rule34 -->
 <br>
 
 <a href="https://linkedin.com/in/nathan-antwi-0a89ba107/">
