@@ -29,7 +29,4 @@ JSON             1 hr 16 mins    ▓░░░░░░░░░░░░░░�
 <!-- https://count.getloli.com/get/@alchemist?theme=rule34 -->
 <br>
 
-<a href="https://linkedin.com/in/nathan-antwi-0a89ba107/">
-  <img align="left" alt="Alchemist's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
