@@ -33,7 +33,3 @@ JSON             1 hr 16 mins    ▓░░░░░░░░░░░░░░�
   <img align="left" alt="Alchemist's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<a href="mailto:nathankantwi@gmail.com">
-  <img align="left" alt="Alchemist's Email" src="https://img.shields.io/badge/Email-nathankantwi%40gmail.com-blue" />
-</a>
-
