@@ -6,11 +6,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other           54 hrs 4 mins   ██████████████░░░░░░░░░░░   55.35 % 
-JavaScript      21 hrs 13 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.72 % 
-Solidity        9 hrs 18 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-PHP             4 hrs 58 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-Solidity file   3 hrs 12 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Other           61 hrs 22 mins  ███████████████▓░░░░░░░░░   62.34 % 
+Solidity        12 hrs 8 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+JavaScript      11 hrs 31 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+PHP             4 hrs 58 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+Solidity file   3 hrs 54 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 ```
 <!--END_SECTION:waka-->
 
