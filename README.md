@@ -6,6 +6,8 @@
 
 <!--START_SECTION:waka-->
 ```text
+Total: 92 hrs 41 mins
+
 JavaScript       52 hrs 34 mins  ██████████████▒░░░░░░░░░░   56.72 % 
 PHP              20 hrs 17 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.89 % 
 Blade Template   9 hrs 1 min     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
