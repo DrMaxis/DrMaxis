@@ -7,12 +7,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       30 hrs 40 mins  ████████████████▒░░░░░░░░   65.61 %
-PHP              3 hrs 21 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
-Solidity         2 hrs 53 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
-Blade Template   2 hrs 47 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
-Slim             2 hrs 5 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
-Solidity file    1 hr 28 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+JavaScript       22 hrs 13 mins  ████████████████▒░░░░░░░░   64.75 %
+PHP              3 hrs 20 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
+Blade Template   2 hrs 47 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
+Slim             1 hr 34 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+Ruby             1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+Solidity         1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
 ```
 
 <!--END_SECTION:waka-->
