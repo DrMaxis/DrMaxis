@@ -2,7 +2,6 @@
 
 > Full Stack Web & Blockchain Developer
 
-> I turn code into 💎💎💎
 
 <!--START_SECTION:waka-->
 
