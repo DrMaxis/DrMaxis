@@ -6,8 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-PHP   10 mins         █████████████████████████   99.95 %
-CSS   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
