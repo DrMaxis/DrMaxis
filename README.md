@@ -1,11 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-PHP          4 hrs 7 mins    ███████████████████░░░░░░   75.67 %
-Text         1 hr 18 mins    ██████░░░░░░░░░░░░░░░░░░░   23.96 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
