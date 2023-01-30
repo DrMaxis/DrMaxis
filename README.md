@@ -1,15 +1,5 @@
-<!--START_SECTION:waka-->
 
-```text
-SCSS         6 hrs 25 mins   ████████████▓░░░░░░░░░░░░   51.13 %
-PHP          5 hrs 16 mins   ██████████▒░░░░░░░░░░░░░░   41.93 %
-HTML         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-Bash         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-CSS          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-```
 
-<!--END_SECTION:waka-->
 
 [![Alchemist's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrMaxis&show_icons=true&theme=outrun&count_private=true)](#)
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/5355808/139111924-210cc6fa-9fb1-4dac-929d-6324a5836a92.gif" width="250" height="200" />
