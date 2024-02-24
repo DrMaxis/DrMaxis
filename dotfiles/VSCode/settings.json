@@ -25,9 +25,11 @@
   },
   "terminal.integrated.defaultProfile.linux": "ubuntu",
   "terminal.integrated.defaultProfile.windows": "Git Bash",
-  "workbench.activityBar.location": "top",
+  "workbench.activityBar.location": "hidden",
   "editor.hover.enabled": true,
   "terminal.integrated.fontFamily": "MesloLGS NF",
+  
+  
 
   /**
    * Better Defaults
@@ -44,7 +46,12 @@
   "editor.detectIndentation": false,
   "files.insertFinalNewline": true,
   "files.trimFinalNewlines": true,
-  "editor.minimap.enabled": false,
+  "workbench.colorCustomizations": {
+    "list.errorForeground": "#b3e5ec",
+    "list.warningForeground": "#00d9ff",
+    "gitDecoration.modifiedResourceForeground": "#00ffb3",
+    "gitDecoration.untrackedResourceForeground": "#f7aeae"
+  },
 
   /**
    * Silence The Noise
@@ -53,9 +60,9 @@
   "breadcrumbs.enabled": true,
   "scm.diffDecorations": "none",
   "editor.matchBrackets": "never",
-  "workbench.tips.enabled": false,
-  "editor.colorDecorators": false,
-  "git.decorations.enabled": false,
+  "workbench.tips.enabled": true,
+  "editor.colorDecorators": true,
+  "git.decorations.enabled": true,
   "workbench.startupEditor": "none",
   "editor.lightbulb.enabled": false,
   "editor.selectionHighlight": false,
@@ -145,7 +152,6 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "workbench.colorTheme": "Palenight Italic",
-  "workbench.iconTheme": "file-icons",
   "editor.suggestSelection": "first",
   "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
   "explorer.confirmDelete": false,
@@ -165,5 +171,12 @@
    * PHP CS
    **/
   "intelephense.diagnostics.undefinedTypes": false,
-  "security.workspace.trust.untrustedFiles": "open"
+  "security.workspace.trust.untrustedFiles": "open",
+  "workbench.iconTheme": "bearded-icons",
+  "[php]": {
+    "editor.defaultFormatter": "DEVSENSE.phptools-vscode"
+  },
+  "[blade]": {
+    "editor.defaultFormatter": "shufo.vscode-blade-formatter"
+  }
 }
