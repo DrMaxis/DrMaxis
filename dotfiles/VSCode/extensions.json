@@ -1,0 +1,1274 @@
+[
+  {
+    "identifier": {
+      "id": "cobeia.airbnb-react-snippets",
+      "uuid": "9212277f-c504-4d51-9719-a16e0b4083a1"
+    },
+    "version": "0.0.2",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/cobeia.airbnb-react-snippets-0.0.2",
+      "scheme": "file"
+    },
+    "relativeLocation": "cobeia.airbnb-react-snippets-0.0.2",
+    "metadata": {
+      "id": "9212277f-c504-4d51-9719-a16e0b4083a1",
+      "publisherId": "0ce917fa-7a72-41d6-8e22-3f3ff363c9c9",
+      "publisherDisplayName": "cobeia",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1703281643337,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "m1guelpf.better-pest",
+      "uuid": "8be34a02-fb9e-4be6-9f4d-bac8d7c88aee"
+    },
+    "version": "0.1.0",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/m1guelpf.better-pest-0.1.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "m1guelpf.better-pest-0.1.0",
+    "metadata": {
+      "id": "8be34a02-fb9e-4be6-9f4d-bac8d7c88aee",
+      "publisherId": "4ae58c42-6c16-4070-8ae5-eef7fa21bbce",
+      "publisherDisplayName": "Miguel Piedrafita",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1703281649251,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "wmaurer.change-case",
+      "uuid": "2aa040bf-c73a-455d-8946-5c6cc83b8019"
+    },
+    "version": "1.0.0",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/wmaurer.change-case-1.0.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "wmaurer.change-case-1.0.0",
+    "metadata": {
+      "id": "2aa040bf-c73a-455d-8946-5c6cc83b8019",
+      "publisherId": "1765455a-0065-41ee-a148-b8fd4226221b",
+      "publisherDisplayName": "wmaurer",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1703281655441,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "randomfractalsinc.vscode-data-preview",
+      "uuid": "3b15ab8e-f648-4bfc-bae7-e588ea755b51"
+    },
+    "version": "2.3.0",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/randomfractalsinc.vscode-data-preview-2.3.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "randomfractalsinc.vscode-data-preview-2.3.0",
+    "metadata": {
+      "id": "3b15ab8e-f648-4bfc-bae7-e588ea755b51",
+      "publisherId": "c0235960-79cc-476e-be8e-a16e4fc76b9a",
+      "publisherDisplayName": "Random Fractals Inc.",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1703281685245,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "mikestead.dotenv",
+      "uuid": "532533c9-a894-4a58-9eee-bbfbe7c06f71"
+    },
+    "version": "1.0.1",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/mikestead.dotenv-1.0.1",
+      "scheme": "file"
+    },
+    "relativeLocation": "mikestead.dotenv-1.0.1",
+    "metadata": {
+      "id": "532533c9-a894-4a58-9eee-bbfbe7c06f71",
+      "publisherId": "b6aa9b98-56e5-4846-b7d2-600d45fc63fc",
+      "publisherDisplayName": "mikestead",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1703281697754,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "file-icons.file-icons",
+      "uuid": "43335a8d-5929-408b-874a-65f08362642c"
+    },
+    "version": "1.1.0",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/file-icons.file-icons-1.1.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "file-icons.file-icons-1.1.0",
+    "metadata": {
+      "id": "43335a8d-5929-408b-874a-65f08362642c",
+      "publisherId": "bdf69065-5f25-4de9-9ff1-270dd0b6c704",
+      "publisherDisplayName": "file-icons",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1703281732216,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "mhutchie.git-graph",
+      "uuid": "438221f8-1107-4ccd-a6fe-f3b7fe0856b7"
+    },
+    "version": "1.30.0",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/mhutchie.git-graph-1.30.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "mhutchie.git-graph-1.30.0",
+    "metadata": {
+      "id": "438221f8-1107-4ccd-a6fe-f3b7fe0856b7",
+      "publisherId": "996496dc-099f-469d-b89c-0d7713179365",
+      "publisherDisplayName": "mhutchie",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1703281750093,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "kumar-harsh.graphql-for-vscode",
+      "uuid": "3e8a391a-f3f0-44b2-8631-7847b0c8839a"
+    },
+    "version": "1.15.3",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/kumar-harsh.graphql-for-vscode-1.15.3",
+      "scheme": "file"
+    },
+    "relativeLocation": "kumar-harsh.graphql-for-vscode-1.15.3",
+    "metadata": {
+      "id": "3e8a391a-f3f0-44b2-8631-7847b0c8839a",
+      "publisherId": "648f4d5a-b453-44ae-b4d2-038c3297108f",
+      "publisherDisplayName": "Kumar Harsh",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1703281807988,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "amiralizadeh9480.laravel-extra-intellisense",
+      "uuid": "b52072d1-e507-4261-8935-f4d91a055d7d"
+    },
+    "version": "0.6.4",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/amiralizadeh9480.laravel-extra-intellisense-0.6.4",
+      "scheme": "file"
+    },
+    "relativeLocation": "amiralizadeh9480.laravel-extra-intellisense-0.6.4",
+    "metadata": {
+      "id": "b52072d1-e507-4261-8935-f4d91a055d7d",
+      "publisherId": "408616ef-0321-4001-b2f0-ae74e0f71aa2",
+      "publisherDisplayName": "amir",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1703281843608,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "christian-kohler.npm-intellisense",
+      "uuid": "dff6b801-247e-40e9-82e8-8c9b1d19d1b8"
+    },
+    "version": "1.4.5",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/christian-kohler.npm-intellisense-1.4.5",
+      "scheme": "file"
+    },
+    "relativeLocation": "christian-kohler.npm-intellisense-1.4.5",
+    "metadata": {
+      "id": "dff6b801-247e-40e9-82e8-8c9b1d19d1b8",
+      "publisherId": "a892fb38-060b-475f-9e73-2e06a8a17a68",
+      "publisherDisplayName": "Christian Kohler",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1703281912548,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "dansysanalyst.pest-snippets",
+      "uuid": "3a9ce0ff-f237-4b64-b722-55cb770bf349"
+    },
+    "version": "2.0.0",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/dansysanalyst.pest-snippets-2.0.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "dansysanalyst.pest-snippets-2.0.0",
+    "metadata": {
+      "id": "3a9ce0ff-f237-4b64-b722-55cb770bf349",
+      "publisherId": "bf852626-6b8a-4e79-9e3f-ae3e1cbe9fa3",
+      "publisherDisplayName": "dansysanalyst",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1703281937575,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "neilbrayfield.php-docblocker",
+      "uuid": "ca0094fa-0dc7-4847-ae5d-879442c099ca"
+    },
+    "version": "2.7.0",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/neilbrayfield.php-docblocker-2.7.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "neilbrayfield.php-docblocker-2.7.0",
+    "metadata": {
+      "id": "ca0094fa-0dc7-4847-ae5d-879442c099ca",
+      "publisherId": "c57feae1-b54d-4743-8628-84a9d0363b8e",
+      "publisherDisplayName": "Neil Brayfield",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1703281947542,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "bmewburn.vscode-intelephense-client",
+      "uuid": "ffda6552-0ad5-431b-a4fa-0905a7e4f3f0"
+    },
+    "version": "1.10.2",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/bmewburn.vscode-intelephense-client-1.10.2",
+      "scheme": "file"
+    },
+    "relativeLocation": "bmewburn.vscode-intelephense-client-1.10.2",
+    "metadata": {
+      "id": "ffda6552-0ad5-431b-a4fa-0905a7e4f3f0",
+      "publisherId": "3209eeb0-2b1a-4484-8c83-2627b29db88e",
+      "publisherDisplayName": "Ben Mewburn",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1703281960169,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "mehedidracula.php-namespace-resolver",
+      "uuid": "651dce1f-eda8-4a5b-aa26-0d1266de8ed1"
+    },
+    "version": "1.1.9",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/mehedidracula.php-namespace-resolver-1.1.9",
+      "scheme": "file"
+    },
+    "relativeLocation": "mehedidracula.php-namespace-resolver-1.1.9",
+    "metadata": {
+      "id": "651dce1f-eda8-4a5b-aa26-0d1266de8ed1",
+      "publisherId": "e6a54efe-9186-460e-b45b-8da24a8b8d5f",
+      "publisherDisplayName": "Mehedi Hassan",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1703281970792,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "esbenp.prettier-vscode",
+      "uuid": "96fa4707-6983-4489-b7c5-d5ffdfdcce90"
+    },
+    "version": "10.1.0",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/esbenp.prettier-vscode-10.1.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "esbenp.prettier-vscode-10.1.0",
+    "metadata": {
+      "id": "96fa4707-6983-4489-b7c5-d5ffdfdcce90",
+      "publisherId": "d16f4e39-2ffb-44e3-9c0d-79d873570e3a",
+      "publisherDisplayName": "Prettier",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1703281978098,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "visualstudioexptteam.intellicode-api-usage-examples",
+      "uuid": "9fa2a00e-3bfa-4c2a-abc4-a865bb2b5cf3"
+    },
+    "version": "0.2.8",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.8",
+      "scheme": "file"
+    },
+    "relativeLocation": "visualstudioexptteam.intellicode-api-usage-examples-0.2.8",
+    "metadata": {
+      "id": "9fa2a00e-3bfa-4c2a-abc4-a865bb2b5cf3",
+      "publisherId": "e8db1608-52e8-4d8d-92a6-779c5db302a9",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1703282122306,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "cjhowe7.laravel-blade",
+      "uuid": "32aada6b-3cbf-4590-ab56-f2c4423d028f"
+    },
+    "version": "1.1.2",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/cjhowe7.laravel-blade-1.1.2",
+      "scheme": "file"
+    },
+    "relativeLocation": "cjhowe7.laravel-blade-1.1.2",
+    "metadata": {
+      "id": "32aada6b-3cbf-4590-ab56-f2c4423d028f",
+      "publisherId": "760a8e79-2723-4fd4-ad41-cfb21a43f528",
+      "publisherDisplayName": "Christian Howe",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1703461430409,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "csstools.postcss",
+      "uuid": "80def04d-6d01-495b-9d59-4ad19408872f"
+    },
+    "version": "1.0.9",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/csstools.postcss-1.0.9",
+      "scheme": "file"
+    },
+    "relativeLocation": "csstools.postcss-1.0.9",
+    "metadata": {
+      "id": "80def04d-6d01-495b-9d59-4ad19408872f",
+      "publisherId": "12124fac-8185-4b27-9cad-a662f8f3ecdd",
+      "publisherDisplayName": "csstools",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1703487535835,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "bradlc.vscode-tailwindcss",
+      "uuid": "4db62a7c-7d70-419c-96d2-6c3a4dc77ea5"
+    },
+    "version": "0.10.5",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.5",
+      "scheme": "file"
+    },
+    "relativeLocation": "bradlc.vscode-tailwindcss-0.10.5",
+    "metadata": {
+      "id": "4db62a7c-7d70-419c-96d2-6c3a4dc77ea5",
+      "publisherId": "84722833-669b-4c7d-920e-b60e43fae19a",
+      "publisherDisplayName": "Tailwind Labs",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1705015636704,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "dbaeumer.vscode-eslint",
+      "uuid": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a"
+    },
+    "version": "2.4.4",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/dbaeumer.vscode-eslint-2.4.4",
+      "scheme": "file"
+    },
+    "relativeLocation": "dbaeumer.vscode-eslint-2.4.4",
+    "metadata": {
+      "id": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a",
+      "publisherId": "29859a75-d81b-4f0e-8578-2c80ecee6f99",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1707261163250,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "rvest.vs-code-prettier-eslint",
+      "uuid": "d4b06bd6-36a0-469f-be55-c0a73413b688"
+    },
+    "version": "6.0.0",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "rvest.vs-code-prettier-eslint-6.0.0",
+    "metadata": {
+      "id": "d4b06bd6-36a0-469f-be55-c0a73413b688",
+      "publisherId": "b95e678b-a11b-44b4-b281-6b521c2005bc",
+      "publisherDisplayName": "Rebecca Vest",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1707261163279,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-azuretools.vscode-docker",
+      "uuid": "0479fc1c-3d67-49f9-b087-fb9069afe48f"
+    },
+    "version": "1.29.0",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/ms-azuretools.vscode-docker-1.29.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-azuretools.vscode-docker-1.29.0",
+    "metadata": {
+      "id": "0479fc1c-3d67-49f9-b087-fb9069afe48f",
+      "publisherId": "52b787f2-79a9-4f32-99b4-393afe3005d3",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1708273674437,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-vscode-remote.remote-wsl",
+      "uuid": "f0c5397b-d357-4197-99f0-cb4202f22818"
+    },
+    "version": "0.86.0",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/ms-vscode-remote.remote-wsl-0.86.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-vscode-remote.remote-wsl-0.86.0",
+    "metadata": {
+      "id": "f0c5397b-d357-4197-99f0-cb4202f22818",
+      "publisherId": "ac9410a2-0d75-40ec-90de-b59bb705801d",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1708743973820,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "xdebug.php-debug",
+      "uuid": "044b4b31-2969-4af3-895d-855433b8b46d"
+    },
+    "version": "1.34.0",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/xdebug.php-debug-1.34.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "xdebug.php-debug-1.34.0",
+    "metadata": {
+      "id": "044b4b31-2969-4af3-895d-855433b8b46d",
+      "publisherId": "0162ddc5-cb52-4b88-97e2-5272419cd6cd",
+      "publisherDisplayName": "Xdebug",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1708744385806
+    }
+  },
+  {
+    "identifier": {
+      "id": "mrmlnc.vscode-apache",
+      "uuid": "085342db-9568-49b0-ad93-3223ac4c1baa"
+    },
+    "version": "1.2.0",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/mrmlnc.vscode-apache-1.2.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "mrmlnc.vscode-apache-1.2.0",
+    "metadata": {
+      "id": "085342db-9568-49b0-ad93-3223ac4c1baa",
+      "publisherId": "c958976e-9702-4f1a-8bdf-26b7bc012d65",
+      "publisherDisplayName": "mrmlnc",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1708744386013
+    }
+  },
+  {
+    "identifier": {
+      "id": "codingyu.laravel-goto-view",
+      "uuid": "0b86e0a5-d2ef-48d8-9a1a-73f96e65f26e"
+    },
+    "version": "1.3.11",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/codingyu.laravel-goto-view-1.3.11",
+      "scheme": "file"
+    },
+    "relativeLocation": "codingyu.laravel-goto-view-1.3.11",
+    "metadata": {
+      "id": "0b86e0a5-d2ef-48d8-9a1a-73f96e65f26e",
+      "publisherId": "cb0de273-0bdf-4cd8-aa9e-ae0a5627aca2",
+      "publisherDisplayName": "codingyu",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1708744386132
+    }
+  },
+  {
+    "identifier": {
+      "id": "abusaidm.html-snippets",
+      "uuid": "be992f3f-9f22-4b66-a1d2-ecad04c28a28"
+    },
+    "version": "0.2.1",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/abusaidm.html-snippets-0.2.1",
+      "scheme": "file"
+    },
+    "relativeLocation": "abusaidm.html-snippets-0.2.1",
+    "metadata": {
+      "id": "be992f3f-9f22-4b66-a1d2-ecad04c28a28",
+      "publisherId": "7fe357ee-5480-4a7d-a4e9-009d9438c2a3",
+      "publisherDisplayName": "Mohamed Abusaid",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1708744386106
+    }
+  },
+  {
+    "identifier": {
+      "id": "firefox-devtools.vscode-firefox-debug",
+      "uuid": "c5f4d87f-a524-462c-ac01-923eb19cf3e9"
+    },
+    "version": "2.9.10",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/firefox-devtools.vscode-firefox-debug-2.9.10",
+      "scheme": "file"
+    },
+    "relativeLocation": "firefox-devtools.vscode-firefox-debug-2.9.10",
+    "metadata": {
+      "id": "c5f4d87f-a524-462c-ac01-923eb19cf3e9",
+      "publisherId": "a159f731-e4cf-45ea-8249-dc7f3806c7d5",
+      "publisherDisplayName": "Firefox DevTools",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1708744386187
+    }
+  },
+  {
+    "identifier": {
+      "id": "whizkydee.material-palenight-theme",
+      "uuid": "7f147721-ec06-4043-9e37-c9ffbecbccd1"
+    },
+    "version": "2.0.3",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/whizkydee.material-palenight-theme-2.0.3",
+      "scheme": "file"
+    },
+    "relativeLocation": "whizkydee.material-palenight-theme-2.0.3",
+    "metadata": {
+      "id": "7f147721-ec06-4043-9e37-c9ffbecbccd1",
+      "publisherId": "942a68c7-9bce-4e1c-9bb0-828710897a61",
+      "publisherDisplayName": "Olaolu Olawuyi",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1708744385765
+    }
+  },
+  {
+    "identifier": {
+      "id": "davidanson.vscode-markdownlint",
+      "uuid": "daf8b44d-8aae-4da2-80c5-1f770219f643"
+    },
+    "version": "0.54.0",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/davidanson.vscode-markdownlint-0.54.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "davidanson.vscode-markdownlint-0.54.0",
+    "metadata": {
+      "id": "daf8b44d-8aae-4da2-80c5-1f770219f643",
+      "publisherId": "2e4d1cda-6ef0-4e42-a352-ab540afe8ff0",
+      "publisherDisplayName": "David Anson",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1708744386168
+    }
+  },
+  {
+    "identifier": {
+      "id": "beardedbear.beardedicons",
+      "uuid": "1b7bdcac-09ba-421c-bdde-081928177de7"
+    },
+    "version": "1.18.0",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/beardedbear.beardedicons-1.18.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "beardedbear.beardedicons-1.18.0",
+    "metadata": {
+      "id": "1b7bdcac-09ba-421c-bdde-081928177de7",
+      "publisherId": "bfe8429d-0105-48ef-831f-69e781aeb77c",
+      "publisherDisplayName": "BeardedBear",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1708744386066
+    }
+  },
+  {
+    "identifier": {
+      "id": "yzhang.markdown-all-in-one",
+      "uuid": "98790d67-10fa-497c-9113-f6c7489207b2"
+    },
+    "version": "3.6.2",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/yzhang.markdown-all-in-one-3.6.2",
+      "scheme": "file"
+    },
+    "relativeLocation": "yzhang.markdown-all-in-one-3.6.2",
+    "metadata": {
+      "id": "98790d67-10fa-497c-9113-f6c7489207b2",
+      "publisherId": "36c8b41c-6ef6-4bf5-a5b7-65bef29b606f",
+      "publisherDisplayName": "Yu Zhang",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1708744386216
+    }
+  },
+  {
+    "identifier": {
+      "id": "ryannaddy.laravel-artisan",
+      "uuid": "8a3855a5-f258-48ee-87f9-fa4f7a0875b1"
+    },
+    "version": "0.0.31",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/ryannaddy.laravel-artisan-0.0.31",
+      "scheme": "file"
+    },
+    "relativeLocation": "ryannaddy.laravel-artisan-0.0.31",
+    "metadata": {
+      "id": "8a3855a5-f258-48ee-87f9-fa4f7a0875b1",
+      "publisherId": "24a82927-7960-4ab9-84bc-064de264d88b",
+      "publisherDisplayName": "Ryan Naddy",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1708744385934
+    }
+  },
+  {
+    "identifier": {
+      "id": "dotjoshjohnson.xml",
+      "uuid": "0cb81da2-1880-4755-9995-0ae9cc728e20"
+    },
+    "version": "2.5.1",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/dotjoshjohnson.xml-2.5.1",
+      "scheme": "file"
+    },
+    "relativeLocation": "dotjoshjohnson.xml-2.5.1",
+    "metadata": {
+      "id": "0cb81da2-1880-4755-9995-0ae9cc728e20",
+      "publisherId": "0a72d6f9-f644-4e7d-93fe-34389b97e913",
+      "publisherDisplayName": "Josh Johnson",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1708744386200
+    }
+  },
+  {
+    "identifier": {
+      "id": "github.vscode-github-actions",
+      "uuid": "04f49bfc-8330-4eee-8237-ea938fb755ef"
+    },
+    "version": "0.26.2",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/github.vscode-github-actions-0.26.2",
+      "scheme": "file"
+    },
+    "relativeLocation": "github.vscode-github-actions-0.26.2",
+    "metadata": {
+      "id": "04f49bfc-8330-4eee-8237-ea938fb755ef",
+      "publisherId": "7c1c19cd-78eb-4dfb-8999-99caf7679002",
+      "publisherDisplayName": "GitHub",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1708745108438,
+      "pinned": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-python.debugpy",
+      "uuid": "4bd5d2c9-9d65-401a-b0b2-7498d9f17615"
+    },
+    "version": "2024.2.0",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/ms-python.debugpy-2024.2.0-darwin-x64",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-python.debugpy-2024.2.0-darwin-x64",
+    "metadata": {
+      "id": "4bd5d2c9-9d65-401a-b0b2-7498d9f17615",
+      "publisherId": "998b010b-e2af-44a5-a6cd-0b5fd3b9b6f8",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "darwin-x64",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1709239912150,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "devsense.intelli-php-vscode",
+      "uuid": "f83b9c6c-24dd-435c-a088-daff1769b0b8"
+    },
+    "version": "0.12.15062",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/devsense.intelli-php-vscode-0.12.15062-darwin-x64",
+      "scheme": "file"
+    },
+    "relativeLocation": "devsense.intelli-php-vscode-0.12.15062-darwin-x64",
+    "metadata": {
+      "id": "f83b9c6c-24dd-435c-a088-daff1769b0b8",
+      "publisherId": "5db849bc-0940-444f-8936-5d2cdbb81abb",
+      "publisherDisplayName": "DEVSENSE",
+      "targetPlatform": "darwin-x64",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1709239912392,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-python.python",
+      "uuid": "f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5"
+    },
+    "version": "2024.2.1",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/ms-python.python-2024.2.1",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-python.python-2024.2.1",
+    "metadata": {
+      "id": "f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5",
+      "publisherId": "998b010b-e2af-44a5-a6cd-0b5fd3b9b6f8",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1709239912292,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "shufo.vscode-blade-formatter",
+      "uuid": "68a2e971-8ae5-493b-9c34-f4233fb14e40"
+    },
+    "version": "0.24.2",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/shufo.vscode-blade-formatter-0.24.2",
+      "scheme": "file"
+    },
+    "relativeLocation": "shufo.vscode-blade-formatter-0.24.2",
+    "metadata": {
+      "id": "68a2e971-8ae5-493b-9c34-f4233fb14e40",
+      "publisherId": "d48faf8e-4a0c-4f2d-a547-d2618494c84d",
+      "publisherDisplayName": "Shuhei Hayashibara",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1709239911991,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "wakatime.vscode-wakatime",
+      "uuid": "f2fd462f-f1bd-4c62-b54f-59a4e5ffc6a3"
+    },
+    "version": "24.4.0",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/wakatime.vscode-wakatime-24.4.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "wakatime.vscode-wakatime-24.4.0",
+    "metadata": {
+      "id": "f2fd462f-f1bd-4c62-b54f-59a4e5ffc6a3",
+      "publisherId": "27977793-9e84-451b-8977-744ce63f3d70",
+      "publisherDisplayName": "WakaTime",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1710014261426
+    }
+  },
+  {
+    "identifier": {
+      "id": "eamodio.gitlens",
+      "uuid": "4de763bd-505d-4978-9575-2b7696ecf94e"
+    },
+    "version": "14.9.0",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/eamodio.gitlens-14.9.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "eamodio.gitlens-14.9.0",
+    "metadata": {
+      "id": "4de763bd-505d-4978-9575-2b7696ecf94e",
+      "publisherId": "678d198b-9b2e-49d3-96ff-6d801c9575df",
+      "publisherDisplayName": "GitKraken",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1710115741085,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "icrawl.discord-vscode",
+      "uuid": "2bbe1392-1ad3-4f59-82bc-fccaa3afc3a5"
+    },
+    "version": "5.8.0",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/icrawl.discord-vscode-5.8.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "icrawl.discord-vscode-5.8.0",
+    "metadata": {
+      "id": "2bbe1392-1ad3-4f59-82bc-fccaa3afc3a5",
+      "publisherId": "5ccbcc66-3677-482b-9f60-f342bfe54f8d",
+      "publisherDisplayName": "Crawl",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1710115770758,
+      "pinned": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "juanblanco.solidity",
+      "uuid": "25baab03-fe9a-40c7-b683-55c9a0a92480"
+    },
+    "version": "0.0.173",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/juanblanco.solidity-0.0.173",
+      "scheme": "file"
+    },
+    "relativeLocation": "juanblanco.solidity-0.0.173",
+    "metadata": {
+      "id": "25baab03-fe9a-40c7-b683-55c9a0a92480",
+      "publisherId": "9564b3e5-0367-499b-a5e8-02ce946a5ed1",
+      "publisherDisplayName": "Juan Blanco",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1710115741067,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-python.vscode-pylance",
+      "uuid": "364d2426-116a-433a-a5d8-a5098dc3afbd"
+    },
+    "version": "2024.3.1",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/ms-python.vscode-pylance-2024.3.1",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-python.vscode-pylance-2024.3.1",
+    "metadata": {
+      "id": "364d2426-116a-433a-a5d8-a5098dc3afbd",
+      "publisherId": "998b010b-e2af-44a5-a6cd-0b5fd3b9b6f8",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1710341355757,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "devsense.profiler-php-vscode",
+      "uuid": "6e4e2904-96c2-4c5c-8b78-23da062f2f9e"
+    },
+    "version": "1.45.15145",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/devsense.profiler-php-vscode-1.45.15145",
+      "scheme": "file"
+    },
+    "relativeLocation": "devsense.profiler-php-vscode-1.45.15145",
+    "metadata": {
+      "id": "6e4e2904-96c2-4c5c-8b78-23da062f2f9e",
+      "publisherId": "5db849bc-0940-444f-8936-5d2cdbb81abb",
+      "publisherDisplayName": "DEVSENSE",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1710565603963,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "devsense.composer-php-vscode",
+      "uuid": "eed2a934-7bb6-4a5b-a29d-353077efd839"
+    },
+    "version": "1.45.15145",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/devsense.composer-php-vscode-1.45.15145",
+      "scheme": "file"
+    },
+    "relativeLocation": "devsense.composer-php-vscode-1.45.15145",
+    "metadata": {
+      "id": "eed2a934-7bb6-4a5b-a29d-353077efd839",
+      "publisherId": "5db849bc-0940-444f-8936-5d2cdbb81abb",
+      "publisherDisplayName": "DEVSENSE",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1710565603948,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "onecentlin.laravel-blade",
+      "uuid": "3b58a227-618a-4b57-a06b-6984a2a8d1ba"
+    },
+    "version": "1.36.0",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/onecentlin.laravel-blade-1.36.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "onecentlin.laravel-blade-1.36.0",
+    "metadata": {
+      "id": "3b58a227-618a-4b57-a06b-6984a2a8d1ba",
+      "publisherId": "ae5a5701-dff3-41f0-bdb1-adbf4a18997b",
+      "publisherDisplayName": "Winnie Lin",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1710565603911,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "devsense.phptools-vscode",
+      "uuid": "93916db4-e944-4c74-b68e-47f2834e9e93"
+    },
+    "version": "1.45.15145",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/devsense.phptools-vscode-1.45.15145-darwin-x64",
+      "scheme": "file"
+    },
+    "relativeLocation": "devsense.phptools-vscode-1.45.15145-darwin-x64",
+    "metadata": {
+      "id": "93916db4-e944-4c74-b68e-47f2834e9e93",
+      "publisherId": "5db849bc-0940-444f-8936-5d2cdbb81abb",
+      "publisherDisplayName": "DEVSENSE",
+      "targetPlatform": "darwin-x64",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1710565603699,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "visualstudioexptteam.vscodeintellicode",
+      "uuid": "876e8f93-74d0-4f4f-91b7-34a09f19f444"
+    },
+    "version": "1.3.1",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.3.1",
+      "scheme": "file"
+    },
+    "relativeLocation": "visualstudioexptteam.vscodeintellicode-1.3.1",
+    "metadata": {
+      "id": "876e8f93-74d0-4f4f-91b7-34a09f19f444",
+      "publisherId": "e8db1608-52e8-4d8d-92a6-779c5db302a9",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1710565603868,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "iwanabethatguy.path-alias",
+      "uuid": "623c51a3-3db5-4410-a076-d345eb297819"
+    },
+    "version": "0.12.3",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/iwanabethatguy.path-alias-0.12.3",
+      "scheme": "file"
+    },
+    "relativeLocation": "iwanabethatguy.path-alias-0.12.3",
+    "metadata": {
+      "id": "623c51a3-3db5-4410-a076-d345eb297819",
+      "publisherId": "cfa12960-e922-4a68-8b84-ae9381be9e6b",
+      "publisherDisplayName": "victor",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1710573931480,
+      "pinned": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "shd101wyy.markdown-preview-enhanced",
+      "uuid": "3b1db1fc-c7f7-4bd6-9fa4-b499dfa99a8a"
+    },
+    "version": "0.8.13",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/antwi/.vscode/extensions/shd101wyy.markdown-preview-enhanced-0.8.13",
+      "scheme": "file"
+    },
+    "relativeLocation": "shd101wyy.markdown-preview-enhanced-0.8.13",
+    "metadata": {
+      "id": "3b1db1fc-c7f7-4bd6-9fa4-b499dfa99a8a",
+      "publisherId": "deac4ec9-08f5-4752-aa45-c6f09e1f615d",
+      "publisherDisplayName": "Yiyi Wang",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1710735532553,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "vue.volar",
+      "uuid": "a5223b43-8621-4351-a14e-3d560f85f277"
+    },
+    "version": "2.0.7",
+    "location": {
+      "$mid": 1,
+      "fsPath": "/Users/antwi/.vscode/extensions/vue.volar-2.0.7",
+      "external": "file:///Users/antwi/.vscode/extensions/vue.volar-2.0.7",
+      "path": "/Users/antwi/.vscode/extensions/vue.volar-2.0.7",
+      "scheme": "file"
+    },
+    "relativeLocation": "vue.volar-2.0.7",
+    "metadata": {
+      "id": "a5223b43-8621-4351-a14e-3d560f85f277",
+      "publisherId": "49983e2f-38ad-4441-beea-d678b53d0549",
+      "publisherDisplayName": "Vue",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1710971213083,
+      "pinned": false,
+      "preRelease": false
+    }
+  }
+]
