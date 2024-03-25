@@ -1,10 +1,11 @@
+📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
 ```php
 Total Time: 5,988 hrs 49 mins
 
-PHP                        2,157 hrs 5 mins>>>>>>>>>================   35.33 %
-JavaScript                 2,018 hrs 29 mins>>>>>>>>=================   33.06 %
+PHP                        2,157 hrs 5 mins >>>>>>>>>================   35.33 %
+JavaScript                 2,018 hrs 29 mins >>>>>>>>=================   33.06 %
 Blade Template             660 hrs 53 mins >>>======================   10.82 %
 HTML                       239 hrs 6 mins  >========================   03.92 %
 SCSS                       201 hrs         >========================   03.29 %
