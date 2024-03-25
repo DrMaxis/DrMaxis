@@ -15,8 +15,8 @@ jobs:
       - uses: athul/waka-readme@master # do NOT replace with anything else
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          BLOCKS: =>
-          CODE_LANG: php
+          BLOCKS: ->
+          CODE_LANG: markdown
           TIME_RANGE: all_time 
           LANG_COUNT: 10 
           SHOW_TIME: true 
