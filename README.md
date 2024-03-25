@@ -1,7 +1,11 @@
 <!--START_SECTION:waka-->
 
-```text
-
+```txt
+Blade Template   12 hrs 51 mins  ████████▒░░░░░░░░░░░░░░░░   32.88 %
+PHP              8 hrs 54 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.79 %
+Bash             3 hrs 29 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
+JavaScript       2 hrs 48 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
+YAML             2 hrs 33 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
 ```
 
 <!--END_SECTION:waka-->
