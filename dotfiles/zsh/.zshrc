@@ -32,6 +32,9 @@ alias cl="clear"
 
 alias ga="git add"
 
+alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+
+
 # Exa
 alias l="eza -l --icons --git -a"
 alias lt="eza --tree --level=2 --long --icons --git"
