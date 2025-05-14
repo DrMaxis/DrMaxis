@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-
+`Time since 2021`
 ```markdown
 Total Time: 7,549 hrs 14 mins
 
