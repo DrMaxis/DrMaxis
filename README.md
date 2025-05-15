@@ -1,18 +1,18 @@
 <!--START_SECTION:waka-->
-`Time since 2021`
-```markdown
-Total Time: 7,549 hrs 14 mins
 
-PHP                        2,924 hrs       >>>>>>>>>>---------------   38.08 %
-JavaScript                 2,200 hrs 16 mins>>>>>>>------------------   28.66 %
-Blade Template             987 hrs 25 mins >>>----------------------   12.86 %
-HTML                       239 hrs 12 mins >------------------------   03.12 %
+```markdown
+Total Time: 7,556 hrs 13 mins
+
+PHP                        2,925 hrs 58 mins>>>>>>>>>>---------------   38.07 %
+JavaScript                 2,200 hrs 19 mins>>>>>>>------------------   28.63 %
+Blade Template             988 hrs 2 mins  >>>----------------------   12.86 %
+HTML                       239 hrs 12 mins >------------------------   03.11 %
 SCSS                       210 hrs 43 mins >------------------------   02.74 %
 JSON                       192 hrs 10 mins >------------------------   02.50 %
 Solidity                   181 hrs 6 mins  >------------------------   02.36 %
 Other                      128 hrs 54 mins -------------------------   01.68 %
 Bash                       99 hrs 58 mins  -------------------------   01.30 %
-TypeScript                 90 hrs 23 mins  -------------------------   01.18 %
+TypeScript                 91 hrs          -------------------------   01.18 %
 ```
 
 <!--END_SECTION:waka-->
