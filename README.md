@@ -1,18 +1,18 @@
 <!--START_SECTION:waka-->
 
 ```markdown
-Total Time: 8,985 hrs 13 mins
+Total Time: 9,001 hrs 31 mins
 
-PHP                        3,744 hrs 7 mins      >>>>>>>>>>---------------   41.00 %
-JavaScript                 2,230 hrs 47 mins     >>>>>>-------------------   24.43 %
-Blade Template             1,091 hrs 51 mins     >>>----------------------   11.96 %
-TypeScript                 328 hrs 58 mins       >------------------------   03.60 %
+PHP                        3,744 hrs 45 mins     >>>>>>>>>>---------------   40.93 %
+JavaScript                 2,230 hrs 47 mins     >>>>>>-------------------   24.38 %
+Blade Template             1,091 hrs 51 mins     >>>----------------------   11.93 %
+TypeScript                 332 hrs 9 mins        >------------------------   03.63 %
 HTML                       240 hrs 18 mins       >------------------------   02.63 %
-JSON                       215 hrs 38 mins       >------------------------   02.36 %
-SCSS                       211 hrs 26 mins       >------------------------   02.32 %
-Vue.js                     197 hrs 24 mins       >------------------------   02.16 %
+JSON                       215 hrs 40 mins       >------------------------   02.36 %
+SCSS                       211 hrs 26 mins       >------------------------   02.31 %
+Vue.js                     197 hrs 50 mins       >------------------------   02.16 %
 Solidity                   181 hrs 4 mins        -------------------------   01.98 %
-Other                      147 hrs 24 mins       -------------------------   01.61 %
+Other                      147 hrs 25 mins       -------------------------   01.61 %
 ```
 
 <!--END_SECTION:waka-->
